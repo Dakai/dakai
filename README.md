@@ -46,8 +46,8 @@ I am a self-taught full-stack developer.
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=dakai)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dakai)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakai)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats-ten-sable-58.vercel.app/api?username=dakai)
 
----
+[![Top Langs](https://github-readme-stats-ten-sable-58.vercel.app/api/top-langs/?username=dakai&hide=python)](https://github.com/anuraghazra/github-readme-stats)
