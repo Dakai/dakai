@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :rocket: About Me:
 
-I am a self-taught full-stack developer.
+I am a self-taught full-stack programmer.
 
 ---
 
