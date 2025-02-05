@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### :rocket: About Me:
-
-I am a self-taught full-stack programmer.
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
